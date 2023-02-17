@@ -41,7 +41,7 @@
       <div class="col-lg-4">
         <div class="card shadow-sm">
           <div class="card-header bg-transparent text-center">
-            <img class="profile_img" src="bon.jpg" alt="bon"  style="width:100%">
+            <img class="profile_img" src="./img/bon.jpg" alt="bon"  style="width:100%">
             <h3>Bon Daggao</h3>
           </div>
           <div class="card-body">
