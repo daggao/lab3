@@ -26,5 +26,5 @@
     <textarea name="gender" cols="45" rows="4"><?= set_value('gender') ?></textarea>
     <br>
 
-    <input type="submit" name="submit" value="Create news item">
+    <input type="submit" name="submit" value="Create guest item">
 </form>
