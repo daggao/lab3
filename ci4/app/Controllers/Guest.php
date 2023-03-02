@@ -49,7 +49,7 @@ class Guest extends BaseController
         // Checks whether the form is submitted.
         if (! $this->request->is('post')) {
             // The form is not submitted, so returns the form.
-            return view('templates/header', ['title' => 'Create a news item'])
+            return view('templates/header', ['title' => 'Create a guest item'])
                 . view('guest/create')
                 . view('templates/footer');
         }
